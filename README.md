@@ -1,2 +1,2 @@
 # hw_5
-This is project Rakamin Academy for PROA Digitalent Kominfo
+Repository for testing purpose only
